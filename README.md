@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm passionate about software development, and I l
 - 💼 I’m working on several exciting projects involving full-stack development and system design.
 - 🧠 I’m interested in artificial intelligence, machine learning, and cloud computing.
 - 💬 Ask me about software development, project management, or any tech-related topic.
-- 📫 How to reach me: [Email](gokulnathk003@gmail.com) | [LinkedIn](www.linkedin.com/in/gokul-nath-kamaraj) 
+- 📫 How to reach me: [Email] (gokulnathk003@gmail.com) | [LinkedIn] (www.linkedin.com/in/gokul-nath-kamaraj) 
 
 ## Skills
 
@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I'm passionate about software development, and I l
 
 I'm always open to collaborating on interesting projects or discussing new ideas. Feel free to reach out!
 
-- [LinkedIn](www.linkedin.com/in/gokul-nath-kamaraj)
-- [Email](gokulnathk003@gmail.com)
+- [LinkedIn] (www.linkedin.com/in/gokul-nath-kamaraj)
+- [Email] (gokulnathk003@gmail.com)
 
 Thank you for visiting my profile. Have a great day!
